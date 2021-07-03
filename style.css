@@ -26,3 +26,9 @@ div {
     border: 10px solid green;
     border-radius: 5px;
 }
+
+img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
